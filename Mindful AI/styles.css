@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Wix+Madefor+Text&display=swap');
+  
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Wix+Madefor+Text&display=swap');
+
+  @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Poppins:wght@300&family=Wix+Madefor+Text&display=swap');
+
+
+
+
+
+
+.box{
+    /* font-family: 'poppins'; */
+    border-radius: 20px;
+    border: 2px solid ;
+    border-color:rgb(183, 176, 135) ;
+    padding: 50px;
+    margin:10rem 30rem;
+    text-align: center;
+}
+.but{
+    margin-top:0;
+    background-color:rgb(183, 176, 135) ;
+    color: aliceblue;
+    padding: 12px 25px;
+    text-decoration: none;
+}
+
+body{
+    background-image: url('login-bg.jpeg');
+    background-size: cover;
+}
+input{
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+}
+h1{
+    font-size: 50px;
+}
+a{
+    border-radius: 5px;
+}
+a:hover{
+    background-color: rgb(211, 203, 156);
+    transition-delay: 0.3ms;
+}
